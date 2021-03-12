@@ -13,5 +13,5 @@ py EmailOsint.py -e <EMAIL>
 ```
 
 ## 🔑 API
-| Source | Fonction | Key |
-| emailre.io | Email Reputation | ✅ |
+| Source | Fonction | Key |  
+| emailre.io | Email Reputation | ✅ |  
