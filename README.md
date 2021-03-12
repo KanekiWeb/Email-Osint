@@ -17,8 +17,9 @@ py EmailOsint.py -e <EMAIL>
 |-|-|-|
 | [emailre.io](https://emailrep.io/) | Email Réputation | ✅ |  
 | [verify-email](https://verify-email.org/) | Email Vérification | ✅ |  
+| [leak-lookup](http://leak-lookup.com/) | Breached Leaks Website | 🔑 |  
 
 *🔑 - API key required*   
 *✅ - API key no required*  
 
-For [verify-email](https://verify-email.org/) go to [BreachedSites.py](https://github.com/KanekiX2/Email-Osint/blob/master/modules/BreachedSites.py) and replace `API KEY` with your api key.
+For [leak-lookup](http://leak-lookup.com/) go to [BreachedSites.py](https://github.com/KanekiX2/Email-Osint/blob/master/modules/BreachedSites.py) and replace `API KEY` with your api key.
