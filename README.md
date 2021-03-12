@@ -14,4 +14,5 @@ py EmailOsint.py -e <EMAIL>
 
 ## 🔑 API
 | Source | Fonction | Key |  
-| emailre.io | Email Reputation | ✅ |  
+|-|-|-|
+| [emailre.io](https://emailrep.io/) | Email Reputation | ✅ |  
