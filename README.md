@@ -21,5 +21,12 @@ py EmailOsint.py -e <EMAIL>
 
 *🔑 - API key required*   
 *✅ - API key no required*  
-
+  
+  
 For [leak-lookup](http://leak-lookup.com/) go to [BreachedSites.py](https://github.com/KanekiX2/Email-Osint/blob/master/modules/BreachedSites.py) and replace `API KEY` with your api key.
+
+## 📷 Demo  
+
+
+## 💸 To support me
+- <a href="https://www.buymeacoffee.com/KanekiX2" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="30" ></a>
