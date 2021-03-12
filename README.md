@@ -29,4 +29,4 @@ For [leak-lookup](http://leak-lookup.com/) go to [BreachedSites.py](https://gith
 
 
 ## 💸 To support me
-- <a href="https://www.buymeacoffee.com/KanekiX2" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="30" ></a>
+<a href="https://www.buymeacoffee.com/KanekiX2" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" ></a>
