@@ -5,6 +5,8 @@
   <a href="https://github.com/KanekiX2">Github</a>
 </p>
 
+![IMG](https://cdn.discordapp.com/attachments/814116223126208602/819991530357129246/Email_Osint.png)
+
 ## ❓ How to start and download EMAIL OSINT
 ```
 git clone https://github.com/KanekiX2/Email-Osint.git
