@@ -6,6 +6,7 @@ from lib.headers import Header
 from modules.emailrep import emailrep
 from modules.verify_email import verify_email
 from modules.BreachedSites import BreachedSites
+from modules.PastebinDump import pastebin_dump
 
 parser = argparse.ArgumentParser()
 parser.add_argument('-e','--email',help="Email Adresse")
@@ -22,6 +23,10 @@ emailrep(email=email)
 # Email Vérification
 Header(text="Email Vérification")
 verify_email(email=email)
+
+# Dump pastebin
+Header(text="Dump pastebin")
+pastebin_dump(email=email)
 
 # Breached Leaks Website
 Header(text="Breached Leaks Website")
