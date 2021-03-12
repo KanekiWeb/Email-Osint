@@ -15,7 +15,7 @@ py EmailOsint.py -e <EMAIL>
 ## 🔑 API
 | Source | Fonction | Key |  
 |-|-|-|
-| [emailre.io](https://emailrep.io/) | Email Réputation | ✅ |  
+| [emailrep.io](https://emailrep.io/) | Email Réputation | ✅ |  
 | [verify-email](https://verify-email.org/) | Email Vérification | ✅ |  
 | [leak-lookup](http://leak-lookup.com/) | Breached Leaks Website | 🔑 |  
 
