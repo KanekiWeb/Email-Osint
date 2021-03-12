@@ -27,6 +27,8 @@ For [leak-lookup](http://leak-lookup.com/) go to [BreachedSites.py](https://gith
 
 ## 📷 Demo  
 
+![Email Osint](https://cdn.discordapp.com/attachments/814116223126208602/819989000801747004/Email_Osint-redacted_dot_app.png)
+
 
 ## 💸 To support me
 <a href="https://www.buymeacoffee.com/KanekiX2" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" ></a>
