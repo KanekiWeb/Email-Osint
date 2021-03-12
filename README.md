@@ -2,10 +2,9 @@
   <b>Follow me here:</b><br>
   <a href="https://discord.gg/5bKTQXBjqG">Discord</a> |
   <a href="https://www.youtube.com/channel/UCdIuioH8MzwMD88XGkliupA">YouTube</a> |
-  <a href="https://github.com/KanekiX2">Github</a>
+  <a href="https://github.com/KanekiX2">Github</a><br><br><br><br>
+  <img src="https://cdn.discordapp.com/attachments/814116223126208602/819991530357129246/Email_Osint.png">
 </p>
-
-![IMG](https://cdn.discordapp.com/attachments/814116223126208602/819991530357129246/Email_Osint.png)
 
 ## ❓ How to start and download EMAIL OSINT
 ```
