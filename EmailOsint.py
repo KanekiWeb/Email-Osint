@@ -7,6 +7,7 @@ from modules.emailrep import emailrep
 from modules.verify_email import verify_email
 from modules.BreachedSites import BreachedSites
 from modules.PastebinDump import pastebin_dump
+from modules.Holele_Module import account_detect
 
 parser = argparse.ArgumentParser()
 parser.add_argument('-e','--email',help="Email Adresse")
@@ -31,3 +32,7 @@ pastebin_dump(email=email)
 # Breached Leaks Website
 Header(text="Breached Leaks Website")
 BreachedSites(email=email)
+
+# Account Checking
+Header(text="Account Detection")
+Holele_Module(email=email)
