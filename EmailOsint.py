@@ -7,7 +7,7 @@ from modules.emailrep import emailrep
 from modules.verify_email import verify_email
 from modules.BreachedSites import BreachedSites
 from modules.PastebinDump import pastebin_dump
-from modules.Holele_Module import account_detect
+from modules.Holehe_Module import account_detect
 
 parser = argparse.ArgumentParser()
 parser.add_argument('-e','--email',help="Email Adresse")
