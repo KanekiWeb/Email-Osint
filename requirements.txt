@@ -1,4 +1,6 @@
 requests
 colorama
 scrape-search-engine
+leakcheck
 holehe
+terminaltables
