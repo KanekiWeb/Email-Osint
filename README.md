@@ -32,7 +32,7 @@ with your api key.
 
 ## 📷 Demo  
 
-![Email Osint](https://github.com/KanekiX2/Email-Osint/blob/main/lib/demo-gif.gift?raw=true)
+![Email Osint](https://raw.githubusercontent.com/KanekiX2/Email-Osint/main/lib/demo-gif.gif)
 
 
 ## Holele Module
