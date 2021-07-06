@@ -12,7 +12,7 @@ from colorama import Fore
 
 def BreachedSites(email):
     url = "https://leak-lookup.com/api/search"
-    payload = {"key": "API KEY", "type": "email_address", "query": email}
+    payload = {"key": "6d0ac8fb1a3e1faecde871a4d0d2ca44", "type": "email_address", "query": email}
     res = requests.post(url, data=payload, timeout=30).json()
     
     if res['error'] == 'false' and isinstance(res['message'], dict):
